@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/ce2034fcb519452293d97977b1a1dac0/artifacts
+end_time: 1730026418589
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ce2034fcb519452293d97977b1a1dac0
+run_name: treasured-ape-310
+run_uuid: ce2034fcb519452293d97977b1a1dac0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730026410409
+status: 4
+tags: []
+user_id: HP

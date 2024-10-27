@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/da66e311c50740358bbb378a604ee3a9/artifacts
+end_time: 1730027725506
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: da66e311c50740358bbb378a604ee3a9
+run_name: burly-kit-677
+run_uuid: da66e311c50740358bbb378a604ee3a9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730027718438
+status: 4
+tags: []
+user_id: HP

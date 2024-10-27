@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/End-to-end-Machine-Learning-Project-with-MLflow/mlruns/0/5acbb97a23044c19adbe6e77d8d97cc6/artifacts
+end_time: 1730026653060
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 5acbb97a23044c19adbe6e77d8d97cc6
+run_name: dashing-calf-617
+run_uuid: 5acbb97a23044c19adbe6e77d8d97cc6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730026645553
+status: 4
+tags: []
+user_id: HP
